@@ -22,7 +22,7 @@ I'm a computer science student with hands-on experience in Linux system administ
 
 ## 🚀 Current Projects
 
-- **[linux-docs](https://github.com/vhespir/linux-docs)** - System administration portfolio documenting my security implementations, monitoring infrastructure, and automation scripts
+- **[homelab-infrastructure](https://github.com/vhespir/homelab-infrastructure)** - System administration portfolio documenting my security implementations, monitoring infrastructure, and automation scripts
 - **PasswordManager** - Secure password management application demonstrating encryption and security best practices
 - **Monitoring Stack** - Running Prometheus + Grafana + Alertmanager with custom dashboards and Discord webhook integration
 
